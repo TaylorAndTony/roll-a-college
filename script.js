@@ -1,3 +1,11 @@
+var awesome = `
+Congratulation! You are on the right way!
+
+use the password to decrypt the following cipher.
+the cipher is encrypted using algorithm RC4.
+the cipher is shown in Base64.
+`;
+
 const colleges = [
     '条目sd1', '条awf目2', '条sdg目3', '条目4',
     '条sdd目1', '条目2', '条目dsg3', '条目4',
