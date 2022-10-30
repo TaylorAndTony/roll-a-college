@@ -38,7 +38,7 @@ async function getRandomSchool() {
     $("#content").html(`
     <div
         class="big-item"
-        style="background: rgb(${randInt(220, 255)},${randInt(220, 255)},${randInt(220, 255)});">
+        style="background: rgba(${randInt(220, 255)},${randInt(220, 255)},${randInt(220, 255)}, 0.5);">
         ${name}
     </div>
     `);
