@@ -1,9 +1,8 @@
 var awesome = `
-Congratulation! You are on the right way!
+You are on the right way, but now, more things need to be done.
 
-use the password to decrypt the following cipher.
-the cipher is encrypted using algorithm RC4.
-the cipher is shown in Base64.
+7573652070617373776f726420746f20646563727970742e2043697068657220656e6372797074656420696e205243342c2073686f776e20696e204261736536342e
+
 `;
 
 const colleges = [
