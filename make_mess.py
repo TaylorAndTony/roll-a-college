@@ -88,6 +88,7 @@ class Gui:
     def handle_btn(self, char):
         self.input_e.insert(INSERT, char)
         self.on_input()
+        self.input_e.focus_set()
 
     def on_input(self, *a, **b):
         text = self.input_text.get()
